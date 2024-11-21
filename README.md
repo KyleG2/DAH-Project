@@ -33,8 +33,6 @@ This is a collection of all the code used during the Data Acquisition and Handli
 - **Use Case**:
   - This was used to observe what values the sensor read under heating from a hairdryer.
 
-## Calibration Analysis
-
 ### Calibration_Analysis.py
 - **Purpose**:
   - Used to analyze the relationship between the readings from the **DHT22 sensor** and a **Lascar Electronics data logger**.
